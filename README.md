@@ -167,6 +167,8 @@ Atualmente estudando as melhores práticas em front-end, back-end e mobile. Tamb
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 ### 💼 Experiências
 
