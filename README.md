@@ -177,7 +177,9 @@ No momento, estou focado em aprofundar meus conhecimentos nas melhores práticas
 🔹 **Trainee/Desenvolvedor** - Clínica Médica Flvávio Serafini (01/07/2024 até atual)  
    - Criação de um site voltado para o aluguel ou compra da casa de praia de Flavio Serafini
    e outro site voltado para a vende de produtos de afiliado do próprio  
-   - Tecnologias utilizadas: Wordpress  
+   - Tecnologias utilizadas: Wordpress
+   - Link: https://casaboicucangacom.wordpress.com/?_gl=1*vug5of*_gcl_au*MjE0MTI5MDYzNS4xNzUyNTkzNDMz
+   - Link: https://serafini2.wordpress.com/  
 
 🔹 **Projeto Pessoal** - Nome do Projeto  
    - Descrição do projeto  
