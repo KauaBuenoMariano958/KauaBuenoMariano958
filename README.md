@@ -2,8 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Kauã Bueno Mariano, tenho 18 anos e sou de Pindamonhangaba. Concluí o ensino médio no colégio E.E. João Pedro Cardoso. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Taubaté e Engenharia de Software pela Unicesumar. Sou apaixonado por tecnologia e estou sempre buscando aprender, evoluir e transformar ideias em soluções digitais.
-Atualmente estudando as melhores práticas em front-end, back-end e mobile. Também possuo um canal no Youtube ensinando programação de forma gratuita
+Olá! Meu nome é Kauã Bueno Mariano, tenho 18 anos e sou natural de Pindamonhangaba, São Paulo. Concluí o Ensino Médio na Escola Estadual João Pedro Cardoso. Atualmente, sou estudante dos cursos de Análise e Desenvolvimento de Sistemas na FATEC Taubaté e Engenharia de Software pela Unicesumar.
+Sou apaixonado por tecnologia e estou constantemente em busca de aprendizado, evolução e da transformação de ideias em soluções digitais. Também mantenho um canal no YouTube, onde compartilho gratuitamente conteúdos educativos sobre programação.
+No momento, estou focado em aprofundar meus conhecimentos nas melhores práticas de desenvolvimento front-end, back-end e mobile. 
 
 <p align="left">
     <a href="https://www.youtube.com/@CodificaA%C3%AD-s4m">
